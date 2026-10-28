@@ -1,0 +1,6 @@
+{
+  "name": "Cổng Luyện Thi THPTQG & V-ACT 2027 Hoàng Gia",
+  "description": "Nền tảng thi thử và ôn tập THPTQG & ĐGNL V-ACT 2027 hiện đại, chuẩn cấu trúc đề Bộ GD&ĐT & ĐHQG, tích hợp AI giải và chấm bài tự luận thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
